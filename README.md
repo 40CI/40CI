@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I'm an **IT Infrastructure Engineer & DevOps** wit
 
 ---
 
+## 📬 **Contact Me**
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavdar-tzvetkov) [![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chavdar.tzvetkov@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](#)  
+
+---
+
 ## 🛠️ **Skills & Expertise**
 
 🎯 **Core Skills**:
@@ -37,27 +43,27 @@ Welcome to my GitHub profile! I'm an **IT Infrastructure Engineer & DevOps** wit
 
 ---
 
-## 📈 **My GitHub Stats**
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chavdar-Tzvetkov&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chavdar-Tzvetkov&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavdar-Tzvetkov&layout=compact&theme=radical)
-
----
-
-## 📬 **Contact Me**
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavdar-tzvetkov)  
-[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chavdar.tzvetkov@gmail.com)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](#)  
-
----
-
 ## 💡 **Fun Facts**
 - Fluent in **Bulgarian**, **English**.
 - Passionate about **leadership**, **organizational culture**, and learning new technologies.
 
 ---
+
+## 📈 **My GitHub Stats**
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chavdar-Tzvetkov&theme=hacker&hide_border=true"alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Chavdar-Tzvetkov&show_icons=true&theme=highcontrast&hide_border=true"alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavdar-Tzvetkov&layout=compact&theme=highcontrast&hide_border=true"alt="Top Languages" />
+</p>
+
+---
+
+
 
