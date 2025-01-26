@@ -2,7 +2,7 @@
 
 🌍 **Based in Sofia, Bulgaria**
 
-Welcome to my GitHub profile! I'm an **IT Project Manager & Software Developer** with over a decade of experience in IT leadership, software deployment, and infrastructure migrations. Passionate about creating solutions that bridge technology and business needs.
+Welcome to my GitHub profile! I'm an **IT Infrastructure Engineer & DevOps** with over a decade of experience in IT leadership, software deployment, and infrastructure migrations. Passionate about creating solutions that bridge technology and business needs.
 
 ---
 
@@ -33,11 +33,6 @@ Welcome to my GitHub profile! I'm an **IT Project Manager & Software Developer**
 🔑 **Azure Security Automation**
 - Automated security checks and infrastructure provisioning for Azure-based systems.
 - **Tech Stack**: C#, PowerShell, Azure CLI
-
-🔧 **Wealth Comparison App**  
-- An app to compare personal wealth with the top 500 richest people in the world.  
-- **Tech Stack**: React Native, Firebase, Azure Functions  
-- **Features**: Real-time wealth data comparison, interactive charts, and profile saving.
 
 ---
 
