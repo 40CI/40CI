@@ -9,9 +9,10 @@ Welcome to my GitHub profile! I'm an **IT Infrastructure Engineer & DevOps** wit
 ## 🛠️ **Skills & Expertise**
 
 🎯 **Core Skills**:
+- **OS**: Windows, Linux, MACOS
 - **Programming**: C#, PowerShell, MS SQL
 - **Cloud Platforms**: Azure, Google Cloud Platform (GCP), MS Office 365
-- **Tools & Frameworks**: SCCM, Jira, Confluence, Azure Intune, Autopilot
+- **Tools & Frameworks**: SCCM, Jira, Confluence, ServiceNow, Azure Intune, Autopilot, Entity Framework, MSSQL Studio, InstallShield
 
 📂 **Key Expertise**:
 - IT infrastructure management and support
