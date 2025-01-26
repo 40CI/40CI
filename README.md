@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm an **IT Project Manager & Software Developer**
 
 ## 💡 **Fun Facts**
 - Fluent in **Bulgarian**, **English**.
-- Passionate about **leadership**, **organizational culture**, and building cutting-edge apps.
+- Passionate about **leadership**, **organizational culture**, and learning new technologies.
 
 ---
 
