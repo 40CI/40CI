@@ -39,8 +39,10 @@ Welcome to my GitHub profile! I'm an **IT Infrastructure Engineer & DevOps** wit
 
 ## 📈 **My GitHub Stats**
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chavdar-Tzvetkov&theme=dark&hide_border=true)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chavdar-Tzvetkov&theme=dark&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chavdar-Tzvetkov&show_icons=true&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavdar-Tzvetkov&layout=compact&theme=radical)
 
 ---
